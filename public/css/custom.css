@@ -1,0 +1,30 @@
+.alert {
+  color: #ccc;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  margin-bottom: 1.75rem;
+}
+.alert-info {
+  color: #2bbc8a;
+  border-color: #2bbc8a;
+}
+.c_talks tbody {
+  font-size: 12px;
+}
+.c_talks tbody .repo_link {
+  text-decoration: none;
+  border: none;
+  color: #778087;
+}
+.c_talks tbody .repo_link:hover {
+  background-color: initial;
+  color: #778087;
+}
+.c_talks tbody .fa-2 {
+  font-size: 18px;
+  opacity: 0.5;
+}
+.c_talks tbody .fa-2:hover {
+  font-size: 18px;
+  opacity: 1;
+}
