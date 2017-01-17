@@ -11,7 +11,7 @@ Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wi
 - Datum: 13. Dezember 2016
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: <i>noch nicht festgelegt</i> <small>(nochmal TDD?, Softwarecraftsmanship oder Clean Code)</small>
+- Thema: Software Craftsmanship
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -21,85 +21,9 @@ Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wi
 
 Die /dev/night geht in die fünfte Runde. Sie findet am 13. Dezember um 19:15 Uhr statt.
 
-<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
+Auf der fünften /dev/night wird uns [Niklas](https://twitter.com/niklas_heer) erklären was es mit der "Software Craftsmanship"-Bewegung auf sich hat und was wir von der Bewegung lernen können.
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
-
-
-## Ein paar Bilder
-
-<!-- command: convert img/events/stesie.jpg -resize 300 img/events/thumbs/stesie.jpg -->
-<div class="fotorama" data-nav="thumbs">
-	<a href="/assets/img/events/001_mate.jpg"><img src="/assets/img/events/thumbs/001_mate.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/001_it_begins.jpg"><img src="/assets/img/events/thumbs/001_it_begins.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/001_pairs.jpg"><img src="/assets/img/events/thumbs/001_pairs.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/001_stesie.jpg"><img src="/assets/img/events/thumbs/001_stesie.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/001_talk.jpg"><img src="/assets/img/events/thumbs/001_talk.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/002_food.jpg"><img src="/assets/img/events/thumbs/002_food.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/002_mate.jpg"><img src="/assets/img/events/thumbs/002_mate.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/002_stesie.jpg"><img src="/assets/img/events/thumbs/002_stesie.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/002_stickers.jpg"><img src="/assets/img/events/thumbs/002_stickers.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/002_pairs.jpg"><img src="/assets/img/events/thumbs/002_pairs.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_talk.jpg"><img src="/assets/img/events/thumbs/003_talk.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_talk2.jpg"><img src="/assets/img/events/thumbs/003_talk2.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_room.jpg"><img src="/assets/img/events/thumbs/003_room.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_crowd1.jpg"><img src="/assets/img/events/thumbs/003_crowd1.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_crowd2.jpg"><img src="/assets/img/events/thumbs/003_crowd2.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_crowd3.jpg"><img src="/assets/img/events/thumbs/003_crowd3.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_mate.jpg"><img src="/assets/img/events/thumbs/003_mate.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_sticker.jpg"><img src="/assets/img/events/thumbs/003_sticker.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_pairs1.jpg"><img src="/assets/img/events/thumbs/003_pairs1.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_pairs2.jpg"><img src="/assets/img/events/thumbs/003_pairs2.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_pairs3.jpg"><img src="/assets/img/events/thumbs/003_pairs3.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_pairs4.jpg"><img src="/assets/img/events/thumbs/003_pairs4.jpg" width="144" height="96"></a>
-    <a href="/assets/img/events/003_pairs5.jpg"><img src="/assets/img/events/thumbs/003_pairs5.jpg" width="144" height="96"></a>
-</div>
-<br />
-
-
-## Vergangene Treffen
-
-<table class="events">
-    <thead>
-        <tr>
-            <th>Nr.</th>
-            <th>Datum</th>
-            <th>Thema</th>
-            <th>Redner</th>
-            <th>Repo</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>#004</td>
-            <td>08.11.2016</td>
-            <td>TDD++ - Wie schreibe ich testbaren Code?"</td>
-            <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2016-11-08_TDD-continued"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr>
-        <tr>
-            <td>#003</td>
-            <td>11.10.2016</td>
-            <td>TDD (Test Driven Development)</td>
-            <td><a href="https://twitter.com/sd_alt">@sd_alt</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2016-10-11_test-driven-development"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr>
-        <tr>
-            <td>#002</td>
-            <td>13.09.2016</td>
-            <td>CQRS/ES (Command Query Responsibility Segregation und Event Sourcing)</td>
-            <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2016-09-13_event-sourcing"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr>
-        <tr>
-            <td>#001</td>
-            <td>09.08.2016</td>
-            <td>Transaction Patterns</td>
-            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2016-08-09_transaction-patterns"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr>
-    </tbody>
-</table>
 
 ## Was über uns geschrieben wird
 
